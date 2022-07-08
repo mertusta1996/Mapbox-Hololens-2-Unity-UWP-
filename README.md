@@ -2,7 +2,7 @@
 This repo is a successful example of Mapbox API working in Microsoft Hololens-2 glasses with Unity UWP.
 
 ## Changes
-- Deleted sq3lite.dll and some parts of codes with sq3lite.dll.(sq3lite part is so problematic for Hololens-2)
+- Deleted sq3lite.dll and some parts of codes working with sq3lite.dll.(sq3lite part is so problematic for Hololens-2)
 
 - Reworked all .dll files in Mapbox/Plugins folder.
 
